@@ -1,4 +1,4 @@
-package org.example;
+package WebAutomatization;
 
 import static org.junit.Assert.assertTrue;
 
