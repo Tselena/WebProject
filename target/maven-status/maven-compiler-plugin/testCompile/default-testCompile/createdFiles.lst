@@ -1,0 +1,11 @@
+HTMLAcademyTest\LoginTest.class
+HTMLAcademyTest\AbstractTest.class
+HTMLAcademyTest\LoginNegativeTest.class
+WebAutomatization\SurfTest.class
+HTMLAcademyTest\HTMLMainPageTest.class
+HTMLAcademyTest\PurchaseTest.class
+WebAutomatization\Data.class
+TriangleTest\CheckTriangleTest.class
+WebAutomatization\AutorizationTest.class
+WebAutomatization\PurchaseFunctionTest.class
+WebAutomatization\PurchaseAsAuthorizedTest.class
